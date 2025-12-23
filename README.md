@@ -9,3 +9,5 @@
 上传图片。
 
 使用 jsDelivr 的链接格式进行访问，以绕过国内访问 GitHub 图片慢的问题： https://cdn.jsdelivr.net/gh/用户名/仓库名@分支名/路径/图片名.jpg
+
+PicList下载地址：https://github.com/Kuingsmile/PicList/releases
